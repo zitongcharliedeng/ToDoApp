@@ -1,0 +1,40 @@
+.app{
+    text-align: center
+}
+
+.completed-style{
+    background-color: green;
+}
+
+.uncompleted-style{
+    background-color: white;
+}
+
+.done-button{
+    background-color: lime;
+}
+
+.delete-button{
+    background-color: red;
+}
+
+.edit-button{
+    background-color: orange;
+}
+
+.input-box-white{
+    background-color: white;
+}
+
+.input-box-yellow{
+    background-color: yellow;
+}
+
+.task{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.task-name{
+    padding-right: 20px;
+}
